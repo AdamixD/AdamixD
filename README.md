@@ -10,12 +10,12 @@
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg' height=50 width=50>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg' height=50 width=50>
     <img src="https://skillicons.dev/icons?i=tensorflow&perline=4"/>
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg' height=50 width=50>
     <br>
     <img src="https://skillicons.dev/icons?i=java,spring,mysql,postman">
     <br>
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg' height=50 width=50>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,matlab" />
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg' height=50 width=50>
-    <img src="https://skillicons.dev/icons?i=vscode,matlab" />
   </a>
 </p></br>
 
