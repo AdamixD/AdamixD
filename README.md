@@ -38,7 +38,7 @@
 #### 📫 Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/adam-dąbkowski-2692a1218/">
+  <a href="https://www.linkedin.com/in/adam-dąbkowski/">
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' height=50 width=50>
   </a>
   <a href="mailto:adamdobrus@gmail.com">
